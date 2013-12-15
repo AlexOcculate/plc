@@ -1,0 +1,1 @@
+/Users/mattstringer/anaconda/lib/python2.7/posixpath.py
